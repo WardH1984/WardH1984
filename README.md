@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Tim Wård Höjer (@WardH1984)
 ### 💡 About Me:
 - 🎓 I’m currently studying Applied AI at Mälardalen University.  
-- 🖥️ I have experience with Python and C++.  
+- 🖥️ I have experience with Python and C#.  
 - 🤖 Currently learning about **neural networks, machine learning models, and data analysis tools**.  
 - 👀 Interested in AI, programming, and problem-solving.  
 - 🏃‍♂️ Passionate about endurance training and pushing mental/physical limits.  
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, C++  
+- **Languages:** Python, C#  
 - **Concepts:** Object-Oriented Programming (OOP), Algorithms, Git  
 
 ### 🚀 Current Learning:
